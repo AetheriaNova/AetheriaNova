@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="AetheriaNova Banner" />
+  <img src="https://raw.githubusercontent.com/AetheriaNova/AetheriaNova/refs/heads/main/baner.png" alt="AetheriaNova Banner" />
 </p>
 
 ---
